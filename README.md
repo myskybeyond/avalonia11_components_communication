@@ -1,0 +1,2 @@
+# avalonia11_components_communication
+跨组件通信
